@@ -1,0 +1,51 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.css</file>
+        <file>Resources/images/Model/DisciplineTypeModel/Notepad.png</file>
+        <file>Resources/images/Model/DisciplineTypeModel/WordLogo.png</file>
+        <file>Resources/images/Model/DisciplineTypeModel/7554.jpg</file>
+        <file>Resources/images/Model/Language/java.png</file>
+        <file>Resources/images/Model/Language/c.png</file>
+        <file>Resources/images/Model/Language/cpp.png</file>
+        <file>Resources/images/Model/Language/pas.png</file>
+        <file>Resources/images/Model/StaticAnalyzer/error_256.png</file>
+    </qresource>
+    <qresource prefix="/css">
+        <file>style.css</file>
+    </qresource>
+    <qresource prefix="/DisciplineModelItem">
+        <file alias="DefaultDisciplineModelItem">Resources/images/Model/DisciplineTypeModel/DisciplineModelItem/DefaultDisciplineImage.png</file>
+        <file alias="DefaultDisciplineModelItem_ChildItemIsUpdate">Resources/images/Model/DisciplineTypeModel/DisciplineModelItem/DefaultDiscipline_ChildItemIsUpdate.png</file>
+        <file alias="DefaultDisciplineModelItem_ItemIsUpdate">Resources/images/Model/DisciplineTypeModel/DisciplineModelItem/DefaultDisciplineImage_ItemIsUpdate.png</file>
+        <file alias="DefaultDisciplineModelItem_NewItem">Resources/images/Model/DisciplineTypeModel/DisciplineModelItem/DefaultDisciplineImage_New.png</file>
+    </qresource>
+    <qresource prefix="/MenuDisciplineModelItem">
+        <file alias="DefaultMenuDisciplineModelItem">Resources/images/Model/MenuTypeModel/MenuDisciplineModelItem/DefaultMenuDiscipline.png</file>
+        <file alias="DefaultMenuDisciplineModelItem_ChildItemIsUpdate">Resources/images/Model/MenuTypeModel/MenuDisciplineModelItem/DefaultMenuDiscipline_ChildItemIsUpdate.png</file>
+    </qresource>
+    <qresource prefix="/TaskModelItem">
+        <file alias="DefaultTaskModelItem">Resources/images/Model/DisciplineTypeModel/TaskModelItem/DefaultTaskImage.png</file>
+        <file alias="DefaultTaskModelItem_NewItem">Resources/images/Model/DisciplineTypeModel/TaskModelItem/DefaultTaskImage_NewStatus.png</file>
+    </qresource>
+    <qresource prefix="/MenuTest">
+        <file alias="DefaultMenuTest">Resources/images/Model/MenuTypeModel/MenuTestModelIte/test_256.png</file>
+    </qresource>
+    <qresource prefix="/AttachProject">
+        <file alias="DefaultAttachProject">Resources/images/Model/Attach/attachment_2_128.png</file>
+    </qresource>
+    <qresource prefix="/Run">
+        <file alias="DefaultRun">Resources/images/Model/debug_run.png</file>
+    </qresource>
+    <qresource prefix="/Test">
+        <file alias="DefaultTestModelItem">Resources/images/Model/history/test_256.png</file>
+    </qresource>
+    <qresource prefix="/Analyze">
+        <file alias="DefaultAnalyze">Resources/images/Model/statistic_256.png</file>
+    </qresource>
+    <qresource prefix="/StaticAnalyzer">
+        <file alias="DefaultErrorStaticAnalyzer">Resources/images/Model/StaticAnalyzer/error_256.png</file>
+    </qresource>
+    <qresource prefix="/AboutStaticAnalyzer">
+        <file alias="DefaultAboutStaticAnalyzer">Resources/images/Model/StaticAnalyzer/source_cpp.png</file>
+    </qresource>
+</RCC>

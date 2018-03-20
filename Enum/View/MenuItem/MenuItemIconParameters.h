@@ -1,0 +1,10 @@
+#ifndef MENUITEMICONPARAMETERS_H
+#define MENUITEMICONPARAMETERS_H
+
+enum MenuItemIconParametes {
+
+    HEIGHT = 50,
+    WIDTH = 50
+};
+
+#endif // MENUITEMICONPARAMETERS_H

@@ -1,0 +1,10 @@
+#ifndef ICONSETREASON_H
+#define ICONSETREASON_H
+
+enum IconSetReason {
+
+    NOTIFICATION_SET_REASON = 0,
+    FOREVER_SET_REASON
+};
+
+#endif // ICONSETREASON_H

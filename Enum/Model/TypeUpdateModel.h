@@ -1,0 +1,9 @@
+#ifndef TYPEUPDATEMODEL_H
+#define TYPEUPDATEMODEL_H
+
+enum TypeUpdateModel {
+
+    DISCIPLINE_DESCRIBE_UPDATE = 1
+};
+
+#endif // TYPEUPDATEMODEL_H

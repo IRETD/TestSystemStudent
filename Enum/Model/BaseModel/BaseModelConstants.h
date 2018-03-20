@@ -1,0 +1,10 @@
+#ifndef BASEMODELCONSTANTS_H
+#define BASEMODELCONSTANTS_H
+
+enum BaseModelConstants {
+
+    CHILD_ITEM_DEFAULT_VALUE = -1,
+    DEFAULT_ID_ITEM_VALUE = 0,
+};
+
+#endif // BASEMODELCONSTANTS_H

@@ -1,0 +1,10 @@
+#ifndef TYPEDATAMODEL_H
+#define TYPEDATAMODEL_H
+
+enum TypeDataModel {
+
+    DISCIPLINE_DESCRIPTION_DATA = 1,
+    TASK_DESCRIPTION_DATA = 2
+};
+
+#endif // TYPEDATAMODEL_H

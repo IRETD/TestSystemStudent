@@ -1,0 +1,10 @@
+#ifndef TYPESTANDARTITEMMODEL_H
+#define TYPESTANDARTITEMMODEL_H
+
+enum class TypeStandartItemModel {
+
+    TREE_TYPE = 1,
+    TABLE_TYPE
+};
+
+#endif // TYPESTANDARTITEMMODEL_H

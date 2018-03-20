@@ -1,0 +1,14 @@
+#ifndef TYPEDATA_H
+#define TYPEDATA_H
+
+enum TypeData {
+
+    DISCIPLINE_DATA_TYPE = 0,
+    TASK_DATA_TYPE,
+    TEST_DATA_TYPE,
+    ABOUT_TEST_TYPE,
+    MENU_DATA_TYPE,
+    ANALYZE_TYPE_DATA
+};
+
+#endif // TYPEDATA_H
